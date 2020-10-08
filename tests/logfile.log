@@ -1,0 +1,206 @@
+2020-09-07 13:19:17,189 :INFO : test_wclogin :email id isadfree4@test.com
+2020-09-07 13:19:18,716 :INFO : test_wclogin :Password isTest1234
+2020-09-07 13:24:45,131 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 13:24:46,051 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:09:29,437 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:09:31,185 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:09:53,573 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:09:53,573 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:09:55,139 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:09:55,139 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:39:25,718 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:42:42,622 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:42:44,142 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:43:10,743 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:43:10,743 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:43:12,288 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:43:12,288 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:44:37,025 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:44:37,025 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:44:38,579 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:44:38,579 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:46:00,419 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:46:01,962 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:51:47,225 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:51:47,225 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-07 19:51:48,761 :INFO : test_wclogin :Password is Test1234
+2020-09-07 19:51:48,761 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:25:01,928 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:25:03,445 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:43:57,103 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:43:57,950 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:44:23,353 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:44:23,353 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:44:24,882 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:44:24,882 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:58:43,485 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:58:44,970 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:59:08,932 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:59:08,932 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 01:59:11,064 :INFO : test_wclogin :Password is Test1234
+2020-09-08 01:59:11,064 :INFO : test_wclogin :Password is Test1234
+2020-09-08 07:57:16,547 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 07:57:18,081 :INFO : test_wclogin :Password is Test1234
+2020-09-08 07:58:56,572 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 07:58:56,572 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 07:58:57,504 :INFO : test_wclogin :Password is Test1234
+2020-09-08 07:58:57,504 :INFO : test_wclogin :Password is Test1234
+2020-09-08 08:15:56,378 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 08:15:57,866 :INFO : test_wclogin :Password is Test1234
+2020-09-08 11:41:05,760 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 11:41:07,201 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:27:44,873 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:27:46,361 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:29:42,858 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:29:43,759 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:31:22,859 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:31:24,589 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:34:35,482 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:34:36,427 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:45:32,666 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:45:34,725 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:46:02,824 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:46:02,824 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:46:04,379 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:46:04,379 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:58:09,414 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:58:10,920 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:58:37,334 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:58:37,334 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 14:58:39,468 :INFO : test_wclogin :Password is Test1234
+2020-09-08 14:58:39,468 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:01:41,478 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:01:43,042 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:02:11,363 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:02:11,363 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:02:12,929 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:02:12,929 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:11:18,106 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:11:20,226 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:11:53,315 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:11:53,315 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:11:54,822 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:11:54,822 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:13:25,090 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:13:25,090 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:13:25,090 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:13:26,580 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:13:26,580 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:13:26,580 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:14:19,984 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:14:20,950 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:19:54,806 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:19:56,353 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:25:36,678 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:25:38,238 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:26:30,986 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:26:30,986 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:26:30,986 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:26:31,896 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:26:31,896 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:26:31,896 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:27:53,494 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:27:54,991 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:28:48,437 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:28:48,437 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:28:48,437 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:28:49,963 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:28:49,963 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:28:49,963 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:43:25,453 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:43:27,600 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:45:13,072 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:45:14,605 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:46:14,558 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:46:16,021 :INFO : test_wclogin :Password is Test1234
+2020-09-08 15:46:52,006 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 15:46:52,899 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:29:40,170 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:29:41,950 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:31:00,194 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:31:02,304 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:35:09,901 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:35:11,402 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:37:23,946 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:37:25,470 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:38:15,374 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:38:16,917 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:39:54,829 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:39:56,915 :INFO : test_wclogin :Password is Test1234
+2020-09-08 19:41:12,119 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-08 19:41:13,654 :INFO : test_wclogin :Password is Test1234
+2020-09-09 18:43:40,333 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 18:43:41,808 :INFO : test_wclogin :Password is Test1234
+2020-09-09 18:45:00,902 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 18:45:01,802 :INFO : test_wclogin :Password is Test1234
+2020-09-09 18:45:50,731 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 18:45:52,271 :INFO : test_wclogin :Password is Test1234
+2020-09-09 18:58:04,273 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 18:58:06,031 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:14:29,190 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:14:31,298 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:15:36,381 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:15:37,936 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:18:26,457 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:18:27,951 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:20:06,610 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:20:08,153 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:22:26,913 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:22:27,812 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:24:01,651 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:24:03,171 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:25:20,785 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:25:22,308 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:34:32,232 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:34:34,384 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:36:03,163 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:36:04,641 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:38:35,732 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:38:37,846 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:40:18,488 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:40:19,954 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:41:34,199 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:41:36,291 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:42:43,976 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:42:44,876 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:44:14,740 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:44:16,899 :INFO : test_wclogin :Password is Test1234
+2020-09-09 19:46:00,905 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-09 19:46:02,542 :INFO : test_wclogin :Password is Test1234
+2020-09-10 20:55:18,828 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-10 20:55:19,758 :INFO : test_wclogin :Password is Test1234
+2020-09-10 21:00:45,361 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-10 21:00:46,290 :INFO : test_wclogin :Password is Test1234
+2020-09-10 21:03:44,102 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-10 21:03:45,592 :INFO : test_wclogin :Password is Test1234
+2020-09-12 07:26:08,465 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-12 07:26:09,998 :INFO : test_wclogin :Password is Test1234
+2020-09-12 07:29:23,871 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-12 07:29:24,743 :INFO : test_wclogin :Password is Test1234
+2020-09-12 07:31:58,953 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-12 07:32:00,483 :INFO : test_wclogin :Password is Test1234
+2020-09-12 07:34:40,446 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-12 07:34:41,357 :INFO : test_wclogin :Password is Test1234
+2020-09-12 07:48:59,539 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-12 07:49:01,880 :INFO : test_wclogin :Password is Test1234
+2020-09-12 07:49:56,736 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-12 07:49:58,225 :INFO : test_wclogin :Password is Test1234
+2020-09-20 13:23:13,793 :INFO : test_wclogin :email id is adfree4@test.com
+2020-09-20 13:23:15,249 :INFO : test_wclogin :Password is Test1234
+2020-09-20 13:27:26,678 :INFO : test_globalnav :Home page loaded successfully
+2020-09-20 13:27:39,126 :INFO : test_globalnav :Search page loaded successfully
+2020-09-20 13:27:44,029 :INFO : test_globalnav :Show Browse page loaded successfully
+2020-09-20 13:27:46,162 :INFO : test_globalnav :Account page loaded successfully
+2020-09-20 13:27:48,756 :INFO : test_globalnav :Home page loaded successfully again
+2020-09-20 13:29:37,597 :INFO : test_globalnav :Home page loaded successfully
+2020-09-20 13:29:47,771 :INFO : test_globalnav :Search page loaded successfully
+2020-09-20 13:32:53,972 :INFO : test_globalnav :Home page loaded successfully
+2020-09-20 13:33:02,207 :INFO : test_globalnav :Search page loaded successfully
+2020-09-20 13:33:07,658 :INFO : test_globalnav :Show Browse page loaded successfully
+2020-09-20 13:33:10,098 :INFO : test_globalnav :Account page loaded successfully
+2020-09-20 13:33:12,264 :INFO : test_globalnav :Home page loaded successfully again
+2020-09-20 13:37:27,495 :INFO : test_globalnav :Home page loaded successfully
+2020-09-20 13:37:37,931 :INFO : test_globalnav :Search page loaded successfully
+2020-09-20 13:37:40,834 :INFO : test_globalnav :Show Browse page loaded successfully
+2020-09-20 13:37:43,469 :INFO : test_globalnav :Account page loaded successfully
+2020-09-20 13:37:46,274 :INFO : test_globalnav :Home page loaded successfully again
